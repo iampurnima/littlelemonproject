@@ -1,0 +1,16 @@
+superuser
+username = admin
+password = purnima123
+
+user 
+username = SirjanaSharma
+password = sirjana123
+
+manager
+username  = AnanyaSharma
+password = ananya123
+
+delivery crew
+username = SarojPaudel
+password = saroj123
+
